@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    <string-array name="length_array">
+        <item>m</item>
+        <item>km</item>
+        <item>in</item>
+        <item>ft</item>
+        <item>mile</item>
+    </string-array>
+
+    <string-array name="temp_arry">
+        <item>\'C</item>
+        <item>\'F</item>
+    </string-array>
+
+    <string-array name="area_array">
+        <item>m2</item>
+        <item>km2</item>
+        <item>in2</item>
+        <item>ft2</item>
+        <item>mile2</item>
+        <item>hectare</item>
+        <item>acre</item>
+    </string-array>
+</resources>
